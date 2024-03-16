@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "studid": "1000",
+      "name": "Ajay",
+      "dob": "16-04-2001",
+      "email": "ajaynarngaali@gmail.com",
+      "Class": "sslc",
+      "mark": "600",
+      "id": 1
+    },
+    {
+      "studid": "1002",
+      "name": "unni",
+      "dob": "10-10-2000",
+      "email": "unni@gmail.com",
+      "Class": "sslc",
+      "mark": "599",
+      "id": 2
+    },
+    {
+      "studid": "1004",
+      "name": "akshay",
+      "dob": "20-03-2001",
+      "email": "akshay@gmail.com",
+      "Class": "sslc",
+      "mark": "595",
+      "id": 3
+    },
+    {
+      "studid": "1006",
+      "name": "sayanth",
+      "dob": "12-02-2007",
+      "email": "sayanth123@gmail.com",
+      "Class": "sslc",
+      "mark": "580",
+      "id": 4
+    }
+  ]
+}
